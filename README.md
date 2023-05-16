@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Italo Gabriel</h1>
 <h3 align="center">Systems analysis and development student 🌱</h3>
 
-- 📝 I’m currently learning **Django Rest and React**
+- 📝 I’m currently learning **React and Next.js**
 - 📫 How to reach me **italogabriel1aaaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
